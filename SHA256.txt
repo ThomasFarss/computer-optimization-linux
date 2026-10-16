@@ -1,0 +1,2 @@
+SHA-256  Instalador-ComputerOptimization-Linux.run
+b3a3c3afe445cba898936d021eaed94fee6854c62edab77daf109044b7164b06
